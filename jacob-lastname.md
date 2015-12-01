@@ -1,4 +1,4 @@
 #Bio
-First name
-Last name
-Favorite color
+**First name:** Jacob
+**Last name:** Lastname
+**Favorite color:** Orange
